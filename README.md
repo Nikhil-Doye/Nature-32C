@@ -4,6 +4,10 @@
 ---
 Welcome to **Nature-32C**, a comprehensive repository for coral reef image classification using cutting-edge deep learning techniques. This project leverages **ResNet-50** and other machine learning methodologies to classify coral reef images based on their health status, aiding in marine conservation efforts. 🌊🐠
 
+### 🌊 Protecting Our Oceans
+---
+By classifying coral reef health, **Nature-32C** contributes to efforts in marine conservation. Together, we can make a difference for the planet and its underwater ecosystems! 🌍🐟
+
 ## 🚀 Key Features
 ---
 - **Deep Learning Models**: Implements ResNet-50 for robust image classification.
@@ -75,9 +79,4 @@ Contributions are welcome! Feel free to fork the repository, create a new branch
 For any queries or collaboration opportunities, reach out at:
 - **Email**: nikhildoye@example.com
 - **LinkedIn**: [linkedin.com/in/nikhildoye](https://linkedin.com/in/nikhildoye)
-
----
-
-### 🌊 Protecting Our Oceans
-By classifying coral reef health, **Nature-32C** contributes to efforts in marine conservation. Together, we can make a difference for the planet and its underwater ecosystems! 🌍🐟
 
